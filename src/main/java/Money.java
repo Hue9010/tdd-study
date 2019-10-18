@@ -1,5 +1,15 @@
-public class Money {
+public abstract class Money {
     protected int amount;
+
+    public static Dollar dollar(int amount) {
+        return new Dollar(amount);
+    }
+
+    public static Franc franc(int amount) {
+        return new Franc(amount);
+    }
+
+    abstract Money times(int multiplier);
 
     @Override
     public boolean equals(Object object) {
@@ -16,7 +26,7 @@ class Dollar extends Money {
         this.amount = amount;
     }
 
-    public Dollar times(int multiplier) {
+    public Money times(int multiplier) {
         return new Dollar(amount * multiplier);
     }
 
@@ -33,7 +43,7 @@ class Franc extends Money {
         this.amount = amount;
     }
 
-    public Franc times(int multiplier) {
+    public Money times(int multiplier) {
         return new Franc(amount * multiplier);
     }
 

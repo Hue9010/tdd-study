@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b83cc9da-0a29-4352-b23a-6744d436ebac" name="Default Changelist" comment="" />
+    <list default="true" id="b83cc9da-0a29-4352-b23a-6744d436ebac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dollar.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Dollar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Franc.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Franc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Money.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/MoneyTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/MoneyTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-MoneyTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-MoneyTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Money.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MoneyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MoneyTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -60,12 +81,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Money.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="120">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
               <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
                 <element signature="e#548#549#0" expanded="true" />
                 <element signature="e#584#585#0" expanded="true" />
                 <element signature="e#636#637#0" expanded="true" />
@@ -89,11 +113,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/MoneyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,16 +143,23 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>new Franc</find>
+    </findStrings>
     <replaceStrings>
       <replace />
+      <replace>Money.franc</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Franc.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MoneyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Money.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MoneyTest.java" />
       </list>
     </option>
   </component>
@@ -136,6 +167,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -222,6 +254,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -316,44 +349,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571427623305</updated>
-      <workItem from="1571427627745" duration="2838000" />
+      <workItem from="1571427627745" duration="3791000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MoneyTest - 2019.10.19 at 05h 23m 42s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 05h 23m 53s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 05h 24m 48s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 05h 24m 59s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 05h 25m 23s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 05h 26m 22s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 05h 26m 48s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 05h 27m 26s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="MoneyTest - 2019.10.19 at 05h 28m 40s.xml">
       <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="MoneyTest - 2019.10.19 at 05h 29m 20s.xml">
       <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 05h 39m 02s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 05h 39m 34s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 05h 42m 10s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 05h 43m 44s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 05h 45m 08s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 05h 45m 30s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 05h 45m 40s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 05h 47m 06s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2838000" />
+    <option name="totallyTimeSpent" value="3791000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -366,14 +399,14 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32959184" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -381,10 +414,11 @@
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="Gradle" sideWeight="0.49923897" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.50076103" side_tool="true" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -392,6 +426,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tdd$MoneyTest.ic" NAME="MoneyTest Coverage Results" MODIFIED="1571431538689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/settings.gradle">
@@ -425,21 +462,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MoneyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Money.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="120">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
             <element signature="e#548#549#0" expanded="true" />
             <element signature="e#584#585#0" expanded="true" />
             <element signature="e#636#637#0" expanded="true" />
@@ -448,6 +478,16 @@
             <element signature="e#598#599#0" expanded="true" />
             <element signature="e#640#641#0" expanded="true" />
             <element signature="e#693#694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MoneyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
