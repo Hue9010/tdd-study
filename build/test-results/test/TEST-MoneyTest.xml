@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MoneyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-10-18T21:27:23" hostname="haksunleeui-MacBook-Pro.local" time="0.001">
+<testsuite name="MoneyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-10-18T21:35:29" hostname="haksunleeui-MacBook-Pro.local" time="0.001">
   <properties/>
-  <testcase name="testDiffernetClassEquality" classname="MoneyTest" time="0.001"/>
   <testcase name="testMultiplication" classname="MoneyTest" time="0.0"/>
-  <testcase name="testFrancMultiplication" classname="MoneyTest" time="0.0"/>
   <testcase name="testCurrency" classname="MoneyTest" time="0.0"/>
   <testcase name="testEquality" classname="MoneyTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

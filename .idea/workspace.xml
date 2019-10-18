@@ -12,9 +12,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dollar.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Dollar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Franc.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Franc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dollar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Franc.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Money.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/MoneyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/MoneyTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/MoneyTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/MoneyTest.html" afterDir="false" />
@@ -35,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="221" />
+    <option name="myElementSize" value="237" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
@@ -86,23 +85,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Money.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="490">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="e#89#90#0" expanded="true" />
                 <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
                 <element signature="e#411#412#0" expanded="true" />
                 <element signature="e#438#439#0" expanded="true" />
                 <element signature="e#317#318#0" expanded="true" />
                 <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
-                <element signature="e#1032#1033#0" expanded="true" />
-                <element signature="e#1117#1118#0" expanded="true" />
-                <element signature="e#1156#1157#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,11 +113,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/MoneyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,8 +151,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Franc.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MoneyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Money.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MoneyTest.java" />
       </list>
     </option>
   </component>
@@ -208,14 +203,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tdd" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Money.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
@@ -332,44 +319,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571427623305</updated>
-      <workItem from="1571427627745" duration="5968000" />
+      <workItem from="1571427627745" duration="6467000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MoneyTest - 2019.10.19 at 06h 20m 34s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 06h 21m 46s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 06h 23m 33s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 06h 24m 39s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 06h 24m 49s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 06h 24m 55s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 06h 25m 23s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="MoneyTest - 2019.10.19 at 06h 26m 18s.xml">
-      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="MoneyTest - 2019.10.19 at 06h 26m 57s.xml">
       <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="MoneyTest - 2019.10.19 at 06h 27m 23s.xml">
       <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 06h 28m 59s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 06h 29m 52s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 06h 29m 59s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 06h 31m 25s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 06h 32m 26s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 06h 33m 22s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 06h 33m 44s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="MoneyTest - 2019.10.19 at 06h 35m 29s.xml">
+      <configuration name="MoneyTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5968000" />
+    <option name="totallyTimeSpent" value="6467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -412,7 +399,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tdd$MoneyTest.ic" NAME="MoneyTest Coverage Results" MODIFIED="1571431538689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tdd$MoneyTest.ic" NAME="MoneyTest Coverage Results" MODIFIED="1571434422408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/settings.gradle">
@@ -446,32 +433,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MoneyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Money.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="490">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
             <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
             <element signature="e#411#412#0" expanded="true" />
             <element signature="e#438#439#0" expanded="true" />
             <element signature="e#317#318#0" expanded="true" />
             <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-            <element signature="e#1117#1118#0" expanded="true" />
-            <element signature="e#1156#1157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MoneyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
